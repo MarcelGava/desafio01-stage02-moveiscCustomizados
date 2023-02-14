@@ -3,7 +3,7 @@
 <h1 align="center"> Moveis Customizados </h1>
 
 <p align="center">
-O projeto Móveis Customizados foi desenvolvido durante o stage 02 no Explorer da Rocketseat.. <br/>
+O projeto Móveis Customizados foi desenvolvido durante o stage 02 no Explorer da Rocketseat.<br/>
 
 <p align="center">
   <img alt="projeto treine.me" src="./images/preview.jpg" width="100%">
