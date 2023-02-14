@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Moveis Customizados </h1>
+<h1 align="center"> Móveis Customizados </h1>
 
 <p align="center">
 O projeto Móveis Customizados foi desenvolvido durante o stage 02 no Explorer da Rocketseat.<br/>
