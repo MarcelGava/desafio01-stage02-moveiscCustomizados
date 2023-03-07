@@ -1,20 +1,21 @@
 
 
-<h1 align="center"> Móveis Customizados </h1>
-
 <p align="center">
-O projeto Móveis Customizados foi desenvolvido durante o stage 02 no Explorer da Rocketseat.<br/>
+Primerio desafio desenvolvido no Stage 04 do Explorer na Rocketseat<br/>
 
-<p align="center">
-  <img alt="projeto treine.me" src="./images/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- JavaScritpt
 - Git e Github
-- Figma
+
+Além disso foram trabalhados os seguintes assuntos:
+
+- Variáveis;
+- Operações matemáticas;
+- Operadores comparativos;
+- Condicional.
 
 [Acesse o projeto finalizado, online](https://marcelgava.github.io/rocket.sect/)
